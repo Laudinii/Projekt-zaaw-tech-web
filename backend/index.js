@@ -22,7 +22,6 @@ app.get('/api/books', async (req, res) => {
         const params = new URLSearchParams({
             q: query,
             limit: '12',
-            language: 'pl'
         });
 
         const response = await fetch(`${openLibraryBaseUrl}?${params.toString()}`);

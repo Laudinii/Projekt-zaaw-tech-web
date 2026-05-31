@@ -5,7 +5,7 @@ Szkielet kodu zbudowany przy pomocy template'a od vite REACT + TYPESCRIPT.
 Do walidacji użyty ZOD.
 Komponenty UI z MaterialUI.
 
-Są dwa ekrany, w pierszym jest formularz, w drugim jest wyszukiwarka książek z rezultatami. Język wyszukiwania ustawiony jest na Polski.
+Są dwa ekrany, w pierszym jest formularz, w drugim jest wyszukiwarka książek z rezultatami.
 Wyszukiwanie odbywa się po stronie backendowej.
 
 ## Wymagania
