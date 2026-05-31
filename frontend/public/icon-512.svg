@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Biblioteczka Online icon</title>
+  <desc id="desc">Stylized book icon on a warm background.</desc>
+  <rect width="512" height="512" rx="108" fill="#f5ecdf" />
+  <rect x="74" y="64" width="364" height="384" rx="48" fill="#8c3b2a" />
+  <path d="M150 128h148c42 0 74 32 74 74v152c-22-18-48-28-88-28H150z" fill="#fffaf3" />
+  <path d="M150 128h138c25 0 44 19 44 44v152c-14-8-30-12-52-12H150z" fill="#e7c89c" />
+  <path d="M150 154h126" stroke="#8c3b2a" stroke-width="18" stroke-linecap="round" />
+  <path d="M150 208h104" stroke="#8c3b2a" stroke-width="18" stroke-linecap="round" />
+  <path d="M150 262h118" stroke="#8c3b2a" stroke-width="18" stroke-linecap="round" />
+  <circle cx="354" cy="362" r="54" fill="#c8894f" />
+  <path d="M354 330v64" stroke="#fffaf3" stroke-width="18" stroke-linecap="round" />
+  <path d="M322 362h64" stroke="#fffaf3" stroke-width="18" stroke-linecap="round" />
+</svg>
